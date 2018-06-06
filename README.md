@@ -1,2 +1,4 @@
 # myfirstsignup
-my fisrt sign up to github,hello world.My first programme save in github.
+This is my first sign up github.My first programme save in github.
+
+Java:Hello my world.
